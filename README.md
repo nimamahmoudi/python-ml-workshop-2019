@@ -61,4 +61,8 @@ http://www.numpy.org
 
 ## Contact
 
-In case you have any questions regarding the code, contact me at nima_mahmoudi@live.com
+In case you have any questions regarding the code, contact me at nima.mahmoudi@ualberta.ca.
+
+## About Me
+
+You could take a look at my [personal website](http://nima-dev.com).
