@@ -18,7 +18,7 @@ And after that you can get new files by using these commands (note that any chan
 	> git pull origin master
 
 ## Installation
-Assuming you already have Anaconda installed:
+Assuming you already have [Anaconda](https://www.anaconda.com) installed:
 ```
 > conda create -n mlworkshop python=3.6
 > conda activate mlworkshop
