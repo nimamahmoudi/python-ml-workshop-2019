@@ -18,7 +18,10 @@ And after that you can get new files by using these commands (note that any chan
 	> git pull origin master
 
 ## Installation
+Assuming you already have Anaconda installed:
 ```
+> conda create -n mlworkshop python=3.6
+> conda activate mlworkshop
 > pip install -r requirements.txt
 ```
 
@@ -27,6 +30,11 @@ And after that you can get new files by using these commands (note that any chan
 ```
 > jupyter notebook
 ```
+
+## References
+
+- [A Byte of Python](https://python.swaroopch.com/)
+- [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
 ## Contact
 
