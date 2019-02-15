@@ -36,6 +36,29 @@ Assuming you already have Anaconda installed:
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
+## Useful Links
+For Python:
+```
+https://www.anaconda.com
+https://www.python.org
+https://www.jetbrains.com/pycharm/
+https://jupyter.org/
+https://pypi.org
+https://pypi.org/project/pip/
+https://python.swaroopch.com/
+https://www.slideshare.net/saketkc/python-workshop-11152935
+```
+
+For ML using Python:
+```
+https://en.wikipedia.org/wiki/Iris_flower_data_set
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://scikit-learn.org
+https://pandas.pydata.org
+https://matplotlib.org
+http://www.numpy.org
+```
+
 ## Contact
 
 In case you have any questions regarding the code, contact me at nima_mahmoudi@live.com
