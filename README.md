@@ -1,5 +1,11 @@
 # Introduction to Python and Machine Learning workshop files
 
+## Videos
+
+You can find the videos for this workshop in youtube:
+- [Part1](https://youtu.be/Tm33vDHsPUA)
+- [Part2](https://youtu.be/64tx8qFmkHc)
+
 ## Slides
 
 You can find the slides [here](https://github.com/nimamahmoudi/python-ml-workshop-2019/blob/master/Slides.pdf).
