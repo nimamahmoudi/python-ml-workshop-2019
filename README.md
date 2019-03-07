@@ -1,5 +1,7 @@
 # Introduction to Python and Machine Learning workshop files
 
+This was one of MEGSA speaker series '19/ University of Alberta \[[Link](https://sites.ualberta.ca/~megsa/index.html)\].
+
 ## Videos
 
 You can find the videos for this workshop in youtube:
