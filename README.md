@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nimamahmoudi/python-ml-workshop-2019/master)
+
 # Introduction to Python and Machine Learning workshop files
 
 This was one of MEGSA speaker series '19/ University of Alberta \[[Link](https://sites.ualberta.ca/~megsa/index.html)\].
